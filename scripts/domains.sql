@@ -189,3 +189,8 @@
 (0, 'connectivitycheck.gstatic.com', 1, 'Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk')
 (0, 'connectivitycheck.android.com', 1, 'Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk')
 (0, 'www.msftconnecttest.com', 1, 'Owned by Microsoft. Used by Windows systems to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk')
+(0, 'www.googleadservices.com', 1, '')
+(0, 'ad.doubleclick.net', 1, '')
+(0, 'analytics.plex.tv', 1, '')
+(0, 'device-metrics-us.amazon.com', 1, '')
+(0, 'w3-reporting-nel.reddit.com', 1, '')
