@@ -194,3 +194,4 @@ ad.doubleclick.net
 analytics.plex.tv	
 device-metrics-us.amazon.com
 w3-reporting-nel.reddit.com
+(\.|^)liveperson\.net$
