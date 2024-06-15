@@ -194,3 +194,4 @@
 (0, 'analytics.plex.tv', 1, 'Plex Analytics - qjz9zk')
 (0, 'device-metrics-us.amazon.com', 1, 'Amazon Shopping App - qjz9zk')
 (0, 'w3-reporting-nel.reddit.com', 1, 'Reddit/Infinity - qjz9zk')
+(0, '(\.|^)liveperson\.net$', 1, 'Online Live Chat - qjz9zk')
