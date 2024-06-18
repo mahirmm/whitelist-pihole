@@ -195,3 +195,4 @@ analytics.plex.tv
 device-metrics-us.amazon.com
 w3-reporting-nel.reddit.com
 (\.|^)liveperson\.net$
+aax-eu.amazon.co.uk
