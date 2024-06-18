@@ -195,3 +195,5 @@
 (0, 'device-metrics-us.amazon.com', 1, 'Amazon Shopping App - qjz9zk')
 (0, 'w3-reporting-nel.reddit.com', 1, 'Reddit/Infinity - qjz9zk')
 (0, '(\.|^)liveperson\.net$', 1, 'Online Live Chat - qjz9zk')
+(0, 'aax-eu.amazon.co.uk', 1, 'Amazon Shopping App - qjz9zk')
+
