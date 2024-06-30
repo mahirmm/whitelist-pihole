@@ -199,3 +199,4 @@
 (0, 'mads.amazon-adsystem.com', 1, 'Amazon Shopping App - qjz9zk')
 (0, 'aax-eu-retail-direct.amazon-adsystem.com
 ', 1, 'Amazon Shopping App - qjz9zk')
+(0, 'monitor.clickcease.com', 1, 'Google Shopping - qjz9zk')
