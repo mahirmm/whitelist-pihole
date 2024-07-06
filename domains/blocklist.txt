@@ -1,0 +1,5 @@
+# mahir's curated block/adlist
+
+# format:
+# 0.0.0.0 www.cheese.com
+0.0.0.0 www.cheese.com
