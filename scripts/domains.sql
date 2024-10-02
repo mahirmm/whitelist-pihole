@@ -200,3 +200,4 @@
 (0, 'aax-eu-retail-direct.amazon-adsystem.com', 1, 'Amazon Shopping App - qjz9zk')
 (0, 'monitor.clickcease.com', 1, 'Google Shopping - qjz9zk')
 (0, 'kqzyfj.com', 1, 'Google Shopping Dell - qjz9zk')
+(0, 'www.tkqlhce.com', 1, 'HUKD Argos - qjz9zk')
