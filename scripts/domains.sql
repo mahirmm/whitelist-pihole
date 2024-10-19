@@ -201,3 +201,4 @@
 (0, 'monitor.clickcease.com', 1, 'Google Shopping - qjz9zk')
 (0, 'kqzyfj.com', 1, 'Google Shopping Dell - qjz9zk')
 (0, 'www.tkqlhce.com', 1, 'HUKD Argos - qjz9zk')
+(0, 'clicks.eventbrite.com', 1, 'Eventbrite - qjz9zk')
