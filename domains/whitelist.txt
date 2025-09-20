@@ -205,3 +205,4 @@ clicks.eventbrite.com
 pixel.everesttech.net
 audid-api.taobao.com
 aax-eu-zaz.amazon.co.uk
+adfoc.us
