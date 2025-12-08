@@ -1,3 +1,7 @@
+## master whitelist for pihole
+
+# exact domain entries
+
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
@@ -194,7 +198,6 @@ ad.doubleclick.net
 analytics.plex.tv	
 device-metrics-us.amazon.com
 w3-reporting-nel.reddit.com
-(\.|^)liveperson\.net$
 aax-eu.amazon.co.uk
 mads.amazon-adsystem.com
 aax-eu-retail-direct.amazon-adsystem.com
@@ -207,3 +210,7 @@ audid-api.taobao.com
 aax-eu-zaz.amazon.co.uk
 adfoc.us
 lptag.liveperson.net
+
+# regex entries
+
+(\.|^)liveperson\.net$
