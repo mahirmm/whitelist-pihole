@@ -212,5 +212,4 @@ adfoc.us
 lptag.liveperson.net
 
 # regex entries
-
 (\.|^)liveperson\.net$
